@@ -1,0 +1,238 @@
+[
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e83d"
+    },
+    "day": 1592523297547,
+    "exercises": [
+      {
+        "type": "resistance",
+        "name": "Bicep Curl",
+        "duration": 20,
+        "weight": 100,
+        "reps": 10,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e83e"
+    },
+    "day": 1592609697548,
+    "exercises": [
+      {
+        "type": "resistance",
+        "name": "Lateral Pull",
+        "duration": 20,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e83f"
+    },
+    "day": 1592696097548,
+    "exercises": [
+      {
+        "type": "resistance",
+        "name": "Push Press",
+        "duration": 25,
+        "weight": 185,
+        "reps": 8,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e840"
+    },
+    "day": 1592782497548,
+    "exercises": [
+      {
+        "type": "cardio",
+        "name": "Running",
+        "duration": 25,
+        "distance": 4
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e841"
+    },
+    "day": 1592868897548,
+    "exercises": [
+      {
+        "type": "resistance",
+        "name": "Bench Press",
+        "duration": 20,
+        "weight": 285,
+        "reps": 10,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e842"
+    },
+    "day": 1592955297548,
+    "exercises": [
+      {
+        "type": "resistance",
+        "name": "Bench Press",
+        "duration": 20,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e843"
+    },
+    "day": 1593041697548,
+    "exercises": [
+      {
+        "type": "resistance",
+        "name": "Quad Press",
+        "duration": 30,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e844"
+    },
+    "day": 1593128097548,
+    "exercises": [
+      {
+        "type": "resistance",
+        "name": "Bench Press",
+        "duration": 20,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e845"
+    },
+    "day": 1593214497548,
+    "exercises": [
+      {
+        "type": "resistance",
+        "name": "Military Press",
+        "duration": 20,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929213b2ce697dc61e846"
+    },
+    "day": 1593300897548,
+    "exercises": [
+      {
+        "type": "cardio",
+        "name": "Bench",
+        "duration": 30,
+        "distance": 2
+      },
+      {
+        "_id": {
+          "$oid": "5ef9296882cf007d30647c98"
+        },
+        "type": "cardio",
+        "name": "Running",
+        "distance": 10,
+        "duration": 20
+      },
+      {
+        "_id": {
+          "$oid": "5ef929a782cf007d30647c99"
+        },
+        "type": "resistance",
+        "name": "Bench Press",
+        "weight": 200,
+        "sets": 4,
+        "reps": 10,
+        "duration": 10
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef929f970d47196e85869c2"
+    },
+    "day": {
+      "$date": "2020-06-28T23:38:33.571Z"
+    },
+    "exercises": [
+      {
+        "_id": {
+          "$oid": "5ef92a0270d47196e85869c3"
+        },
+        "type": "resistance",
+        "name": "Leg Press",
+        "weight": 300,
+        "sets": 5,
+        "reps": 15,
+        "duration": 20
+      },
+      {
+        "_id": {
+          "$oid": "5ef92a1370d47196e85869c4"
+        },
+        "type": "cardio",
+        "name": "Running",
+        "distance": 10,
+        "duration": 20
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "5ef92a8b70d47196e85869c5"
+    },
+    "day": {
+      "$date": "2020-06-28T23:40:59.889Z"
+    },
+    "exercises": [
+      {
+        "_id": {
+          "$oid": "5ef92a9470d47196e85869c6"
+        },
+        "type": "resistance",
+        "name": "Bench Press",
+        "weight": 200,
+        "sets": 5,
+        "reps": 10,
+        "duration": 15
+      },
+      {
+        "_id": {
+          "$oid": "5ef92aa170d47196e85869c7"
+        },
+        "type": "cardio",
+        "name": "Running",
+        "distance": 5,
+        "duration": 10
+      }
+    ]
+  }
+]
