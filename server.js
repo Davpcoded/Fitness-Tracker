@@ -16,12 +16,9 @@ app.use(express.static("public"));
 require("./routes/API.js")(app);
 require("./routes/HTML.js")(app);
 
-mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost/fitnessTracker",
-  {
-    useNewUrlParser: true,
-  }
-);
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/WorkoutDB", {
+  useNewUrlParser: true,
+});
 
 // Start the server
 app.listen(PORT, () => {
