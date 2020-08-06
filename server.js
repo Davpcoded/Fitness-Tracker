@@ -13,12 +13,15 @@ app.use(express.json());
 app.use(express.static("public"));
 
 // Requiring our routes
-/* require("./routes/html-routes.js")(app);
-require("./routes/api-routes.js")(app); */
+require("./routes/API.js")(app);
+require("./routes/HTML.js")(app);
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workoutDB", {
-  useNewUrlParser: true,
-});
+mongoose.connect(
+  process.env.MONGODB_URI || "mongodb://localhost/fitnessTracker",
+  {
+    useNewUrlParser: true,
+  }
+);
 
 // Start the server
 app.listen(PORT, () => {
