@@ -52,4 +52,4 @@ go to the navigation bar and type
 
 ## GitHub Repo:
 
-https://github.com/Davpcoded/Updated-Portfolio
+https://github.com/Davpcoded/Fitness-Tracker
