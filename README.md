@@ -6,7 +6,7 @@
 
 interactive application for tracking excercises and work out routines
 
-![Image](https://github.com/Davpcoded/Updated-Portfolio/blob/master/Images/index.html.gif)
+![Image](https://github.com/Davpcoded/Fitness-Tracker/blob/master/public/Fitness%20Tracker.gif)
 
 Follow the link to the App:
 https://track-your-fit.herokuapp.com/
